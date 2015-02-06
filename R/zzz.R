@@ -69,7 +69,6 @@ default_linters <- with_defaults(default = list(),
   object_camel_case_linter,
   object_multiple_dots_linter,
   object_length_linter(30),
-  object_usage_linter,
   trailing_whitespace_linter,
   trailing_blank_lines_linter,
 
